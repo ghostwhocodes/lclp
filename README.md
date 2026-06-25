@@ -1,5 +1,13 @@
 # Layered Context Loop Process
 
+<p align="center">
+  <img src="./.github/assets/banner.webp" alt="Layered Context Loop Process banner">
+</p>
+
+<p align="center">
+  <a href="https://ghost-who-codes.blog/open-source/lclp/">Project page on Ghost Who Codes</a>
+</p>
+
 `LCLP` is a lightweight human-plus-LLM process for shaping, planning,
 executing, and reviewing software changes across durable and temporary context
 layers.
